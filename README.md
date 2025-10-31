@@ -34,3 +34,5 @@ Fim da tabela.
 esse é um
 texto teste
 ```
+### Emojis:
+Olá, 🗺️!
