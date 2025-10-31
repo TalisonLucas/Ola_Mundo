@@ -26,5 +26,11 @@ Num | Nome | Nota
 
 Fim da tabela.
 
-### Trecho de comando:
+### Trecho de comando linha:
 `trecho de comando`
+
+### Trecho de comando varias linhas:
+```ola
+esse é um
+texto teste
+```
