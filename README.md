@@ -15,7 +15,7 @@
 * text2
 
 ### Lista de terafas:
-- [ ] **diária** do dia.
+- [X] **diária** do dia.
 - [ ] Qual valor?
 - [ ] Está certo isso?
 
