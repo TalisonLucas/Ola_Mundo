@@ -36,3 +36,8 @@ texto teste
 ```
 ### Emojis:
 Olá, 🗺️!
+
+### Replay "Quote replay":
+
+> Valeu por ver esse arquivo.
+
